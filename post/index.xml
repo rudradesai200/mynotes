@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Notes</title>
+    <link>https://rudradesai.in/notes/post/</link>
+    <description>Recent content in Posts on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/notes/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recently Explored</title>
+      <link>https://rudradesai.in/notes/post/myfirstpost/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/notes/post/myfirstpost/</guid>
+      <description>&lt;p&gt;Contains links and descriptions to some of my recently visited amazing sites and explored tools.
+All the opinions are based on my personal biases. Please reach out to me if you have something more.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
