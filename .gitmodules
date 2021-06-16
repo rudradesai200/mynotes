@@ -1,0 +1,3 @@
+[submodule "themes/Binario"]
+	path = themes/Binario
+	url = git@github.com:Vimux/Binario.git
