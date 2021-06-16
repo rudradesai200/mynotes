@@ -5,6 +5,43 @@
     <link>https://rudradesai.in/mynotes/tags/</link>
     <description>Recent content in Tags on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Science</title>
+      <link>https://rudradesai.in/mynotes/tags/data-science/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kaggle</title>
+      <link>https://rudradesai.in/mynotes/tags/kaggle/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://rudradesai.in/mynotes/tags/links/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://rudradesai.in/mynotes/tags/ml/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/ml/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
