@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rudradesai.in/notes/</loc>
+    <loc>https://rudradesai.in/mynotes/</loc>
     <lastmod>2021-06-17T01:14:36+05:30</lastmod>
   </url><url>
-    <loc>https://rudradesai.in/notes/post/</loc>
+    <loc>https://rudradesai.in/mynotes/post/</loc>
     <lastmod>2021-06-17T01:14:36+05:30</lastmod>
   </url><url>
-    <loc>https://rudradesai.in/notes/post/myfirstpost/</loc>
+    <loc>https://rudradesai.in/mynotes/post/myfirstpost/</loc>
     <lastmod>2021-06-17T01:14:36+05:30</lastmod>
   </url><url>
-    <loc>https://rudradesai.in/notes/categories/</loc>
+    <loc>https://rudradesai.in/mynotes/categories/</loc>
   </url><url>
-    <loc>https://rudradesai.in/notes/tags/</loc>
+    <loc>https://rudradesai.in/mynotes/tags/</loc>
   </url>
 </urlset>
