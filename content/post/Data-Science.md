@@ -3,7 +3,7 @@ title: "Data Science Imp Links"
 date: 2021-06-17T01:14:36+05:30
 lastmod: 2021-06-17T01:14:36+05:30
 description: "Some important links for Machine Learning"
-tags: ["Data-Science","links"]
+tags: ["data-science","links"]
 
 # Theme-Defined params
 comments: true # Enable/disable Disqus comments for specific page

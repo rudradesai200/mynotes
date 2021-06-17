@@ -3,7 +3,7 @@ title: "To Do"
 description: "List of my todos"
 date: 2021-06-17T09:35:48+05:30
 lastmod: 2021-06-17T09:35:48+05:30
-tags: ["To-do"]
+tags: ["todos"]
 
 # Theme-Defined params
 comments: true # Enable/disable Disqus comments for specific page

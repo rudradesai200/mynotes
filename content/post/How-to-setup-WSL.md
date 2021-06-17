@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "How to Setup WSL"
 draft: true
 description: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
-tags: []
+date: 2021-06-17T09:51:51+05:30
+lastmod: 2021-06-17T09:51:51+05:30
+tags: ["ubuntu","how-to","setup"]
 
 # Theme-Defined params
 comments: true # Enable/disable Disqus comments for specific page
