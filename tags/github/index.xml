@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on My Notes</title>
+    <link>https://rudradesai.in/mynotes/tags/github/</link>
+    <description>Recent content in github on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 09:55:00 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Git and Github</title>
+      <link>https://rudradesai.in/mynotes/post/how-to-use-git-and-github/</link>
+      <pubDate>Thu, 17 Jun 2021 09:55:00 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/post/how-to-use-git-and-github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

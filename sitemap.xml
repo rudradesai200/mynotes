@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rudradesai.in/mynotes/post/how-to-setup-ubuntu/</loc>
-    <lastmod>2021-06-17T09:52:11+05:30</lastmod>
+    <loc>https://rudradesai.in/mynotes/tags/git/</loc>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rudradesai.in/mynotes/tags/github/</loc>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rudradesai.in/mynotes/post/how-to-use-git-and-github/</loc>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/tags/how-to/</loc>
-    <lastmod>2021-06-17T09:52:11+05:30</lastmod>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/</loc>
-    <lastmod>2021-06-17T09:52:11+05:30</lastmod>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/post/</loc>
-    <lastmod>2021-06-17T09:52:11+05:30</lastmod>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/tags/setup/</loc>
-    <lastmod>2021-06-17T09:52:11+05:30</lastmod>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/tags/</loc>
+    <lastmod>2021-06-17T09:55:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rudradesai.in/mynotes/post/how-to-setup-ubuntu/</loc>
     <lastmod>2021-06-17T09:52:11+05:30</lastmod>
   </url><url>
     <loc>https://rudradesai.in/mynotes/tags/wsl/</loc>
