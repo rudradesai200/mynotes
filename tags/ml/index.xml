@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ML on My Notes</title>
+    <title>ml on My Notes</title>
     <link>https://rudradesai.in/mynotes/tags/ml/</link>
-    <description>Recent content in ML on My Notes</description>
+    <description>Recent content in ml on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/ml/index.xml" rel="self" type="application/rss+xml" />

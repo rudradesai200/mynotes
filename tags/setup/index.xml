@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>setup on My Notes</title>
+    <link>https://rudradesai.in/mynotes/tags/setup/</link>
+    <description>Recent content in setup on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 09:52:11 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Setup Ubuntu</title>
+      <link>https://rudradesai.in/mynotes/post/how-to-setup-ubuntu/</link>
+      <pubDate>Thu, 17 Jun 2021 09:52:11 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/post/how-to-setup-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Setup WSL</title>
+      <link>https://rudradesai.in/mynotes/post/how-to-setup-wsl/</link>
+      <pubDate>Thu, 17 Jun 2021 09:51:51 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/post/how-to-setup-wsl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

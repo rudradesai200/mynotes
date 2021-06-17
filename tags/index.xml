@@ -6,22 +6,67 @@
     <description>Recent content in Tags on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 09:35:48 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 09:52:11 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>To-do</title>
-      <link>https://rudradesai.in/mynotes/tags/to-do/</link>
-      <pubDate>Thu, 17 Jun 2021 09:35:48 +0530</pubDate>
+      <title>how-to</title>
+      <link>https://rudradesai.in/mynotes/tags/how-to/</link>
+      <pubDate>Thu, 17 Jun 2021 09:52:11 +0530</pubDate>
       
-      <guid>https://rudradesai.in/mynotes/tags/to-do/</guid>
+      <guid>https://rudradesai.in/mynotes/tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data-Science</title>
+      <title>setup</title>
+      <link>https://rudradesai.in/mynotes/tags/setup/</link>
+      <pubDate>Thu, 17 Jun 2021 09:52:11 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wsl</title>
+      <link>https://rudradesai.in/mynotes/tags/wsl/</link>
+      <pubDate>Thu, 17 Jun 2021 09:52:11 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://rudradesai.in/mynotes/tags/ubuntu/</link>
+      <pubDate>Thu, 17 Jun 2021 09:51:51 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todos</title>
+      <link>https://rudradesai.in/mynotes/tags/todos/</link>
+      <pubDate>Thu, 17 Jun 2021 09:35:48 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/todos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
       <link>https://rudradesai.in/mynotes/tags/data-science/</link>
       <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
       
       <guid>https://rudradesai.in/mynotes/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explore</title>
+      <link>https://rudradesai.in/mynotes/tags/explore/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/explore/</guid>
       <description></description>
     </item>
     
@@ -44,7 +89,7 @@
     </item>
     
     <item>
-      <title>ML</title>
+      <title>ml</title>
       <link>https://rudradesai.in/mynotes/tags/ml/</link>
       <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
       
