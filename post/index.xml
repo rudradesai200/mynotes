@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 09:35:48 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To Do</title>
+      <link>https://rudradesai.in/mynotes/post/to-do/</link>
+      <pubDate>Thu, 17 Jun 2021 09:35:48 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/post/to-do/</guid>
+      <description>&lt;p&gt;List of my todos and some great project ideas to be done in future.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Data Science Imp Links</title>
       <link>https://rudradesai.in/mynotes/post/data-science/</link>

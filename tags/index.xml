@@ -6,7 +6,16 @@
     <description>Recent content in Tags on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 09:35:48 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To-do</title>
+      <link>https://rudradesai.in/mynotes/tags/to-do/</link>
+      <pubDate>Thu, 17 Jun 2021 09:35:48 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/tags/to-do/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data-Science</title>
       <link>https://rudradesai.in/mynotes/tags/data-science/</link>
