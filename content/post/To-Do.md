@@ -25,9 +25,7 @@ List of my todos and some great project ideas to be done in future.
     - [ ] Add local Postgresql settings to it
     - [ ] Refactor the code and remove over-modularization
 - [ ] Revamp [Basic](https://www.github.com/rudradesai200/basic) to Django-tools-suite
-    - [ ] Re-create the interface with python scripts
-    - [ ] Remove the underlying string modification operations to python dictionary operations
-    - [ ] Add authentication module
+    - [x] Add authentication module
     - [ ] Add pre-defined tests module
     - [ ] Add logging module to be available directly as an option
     - [ ] Add options to read an already completed project and fetch some values
