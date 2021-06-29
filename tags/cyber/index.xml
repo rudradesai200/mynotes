@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyber on My Notes</title>
+    <link>https://rudradesai.in/mynotes/tags/cyber/</link>
+    <description>Recent content in cyber on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 01:14:36 +0530</lastBuildDate><atom:link href="https://rudradesai.in/mynotes/tags/cyber/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bug Bounty Resources</title>
+      <link>https://rudradesai.in/mynotes/post/bug_bounty/</link>
+      <pubDate>Thu, 17 Jun 2021 01:14:36 +0530</pubDate>
+      
+      <guid>https://rudradesai.in/mynotes/post/bug_bounty/</guid>
+      <description>&lt;p&gt;Some resources to start with the bug bounty journey&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
