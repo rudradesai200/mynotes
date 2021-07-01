@@ -24,3 +24,17 @@ Some resources for placement preparation.
 - 60 questions on leetcode - [Link](https://leetcode.com/list/xo2bgr0r)
 - Some other questions - [Link](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)
 - Top 100 Leetcode questions - [Link](https://nitinkgp23.github.io/2019/09/25/Leetcode/)
+
+### Resources
+- Facebook group - [Link](https://www.facebook.com/groups/1540488506008368/)
+- Gate CS topicwise notes - [Link](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+- OS notes - [Link](https://drive.google.com/drive/folders/1gFCSaiajLFi8S5fPGyrN2TJY8vNn-cdQ?usp=sharing)
+- Probab and Stats notes - [Link](https://drive.google.com/drive/folders/0Bx7x8HmM7p_zeDVydHkyOWVUYmM?usp=sharing)
+- the grey labryinith puzzles - [Link](http://www.greylabyrinth.com/)
+- CSE blog - [Link](http://www.cseblog.com/)
+
+### Books
+- Heard on the street
+- 50 challenging problems in probability
+- Notes and explanations - [Link](https://nitinkgp23.github.io/notes/2019/06/30/Interesting-notes-and-explanations/)
+- Some of the books link - [Link](https://drive.google.com/drive/folders/1nqA6ubzdOtY_zubz5lFDuw9Mw_8ERsSC)
