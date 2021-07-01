@@ -16,7 +16,11 @@ related: true # Enable/disable Related content for specific page
 Some resources for placement preparation.
 <!--more-->
 
+### Some guides
+- A to Z guide to your campus placements - [Link](https://nitinkgp23.github.io/2020/09/23/A-to-Z-guide-to-your-campus-placements)
+
 ### Leetcode Questions
 - 60 Leetcode questions google sheet - [Link](https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0)
 - 60 questions on leetcode - [Link](https://leetcode.com/list/xo2bgr0r)
 - Some other questions - [Link](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)
+- Top 100 Leetcode questions - [Link](https://nitinkgp23.github.io/2019/09/25/Leetcode/)
