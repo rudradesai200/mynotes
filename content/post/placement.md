@@ -25,6 +25,10 @@ Some resources for placement preparation.
 - Some other questions - [Link](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)
 - Top 100 Leetcode questions - [Link](https://nitinkgp23.github.io/2019/09/25/Leetcode/)
 
+## Some Good posts
+- https://www.geeksforgeeks.org/map-vs-unordered_map-c/
+- https://www.geeksforgeeks.org/set-vs-unordered_set-c-stl/
+
 ### Resources
 - Facebook group - [Link](https://www.facebook.com/groups/1540488506008368/)
 - Gate CS topicwise notes - [Link](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
