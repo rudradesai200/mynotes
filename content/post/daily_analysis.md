@@ -14,8 +14,10 @@ mathjax: true # Enable/disable MathJax for specific page
 related: true # Enable/disable Related content for specific page
 ---
 
+My daily technical analysis observations + my mistakes
 <!--more-->
-##Mistakes made
+
+## Mistakes made
 - Wait for proper confirmation
 - Don't use your gut feeling
 - Wait till you see proper trend patterns
