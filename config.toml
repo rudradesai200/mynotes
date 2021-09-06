@@ -5,7 +5,7 @@ theme = "Binario"
 
 [Author] # Used in authorbox
   name = "Rudra Desai"
-  bio = "Deploying my notes as blogs!! Hope you like it!"
+  bio = "Deploying my notes as blogs!!"
   avatar = "images/rudra.jpeg"
 
 [Params]
