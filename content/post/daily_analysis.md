@@ -25,7 +25,7 @@ My daily technical analysis observations + my mistakes
 - Don't keep the buy trigger too close to the price
 
 
-## DATE: 8/8/21
+## DATE: 8/9/21
 
 **jkpaper**
 - Buy entry at 252, with stop loss at 247
@@ -84,7 +84,7 @@ My daily technical analysis observations + my mistakes
 **LXCHEM**
 - looks too high, rsi in overbought zone with negative stochrsi crossover
 
-## DATE: 7/8/21
+## DATE: 7/9/21
 
 **JBMA**
 - crossover with 21 ema , 63 ema and BB median today
