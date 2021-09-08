@@ -24,6 +24,66 @@ My daily technical analysis observations + my mistakes
 - dont put market buy order
 - Don't keep the buy trigger too close to the price
 
+
+**DATE: 8/8/21**
+
+**jkpaper**
+- Buy entry at 252, with stop loss at 247
+- T1 = 262, T2 = 265, T3 = 280
+
+**ASIANTILES**
+- Long term support at 152.61 and almost about to hit support
+- If direction changes then definetely a buy entry
+
+**BATAINDIA**
+- Hit the trend line support, check the closing price
+- Looks like a direction change, may go upto 1786
+
+**fluorochem**
+- looks like a buy entry as it hit it's lower trend channel
+- About to cross its BB median. First target 1745. 
+
+**TITAN**
+- Will go down slightly for a day or two, then definetely a good buy signal.
+- broke out it's long term trend channel.
+
+**happstmnds**
+- Looks like a buy entry, but wait for 1 day
+- support at 1441 and just broke out of a converging trend channel
+
+**SHREEPUSHK**
+- in a long term positive trend channel
+- If crosses 227, then may go upto 333
+
+**BHEL**
+- If closses above 55.90, then a good buy entry with target 58.40
+
+**SAIL**
+- If breaks above 124, then confirmed entry with target 142
+
+**COALINDIA**
+- In a Reistance zone from 147-150, if breakout then target 162
+
+**JBMA**
+- hold for 2 days, looks like a sideways trend
+
+**DEEPAKNTR**
+- very near to the upper trend line, wait for some days
+
+**Bajaj-auto**
+- In a negative trend channel from the last 3 months
+- May break out soon. Wait for some days
+
+**ITC**
+- Looks like a converging trend channel with sideways move.
+- Wait for some days for a clear trend
+
+**lauraslabs**
+- Sideways trend, no clear view
+
+**LXCHEM**
+- looks too high, rsi in overbought zone with negative stochrsi crossover
+
 ## DATE: 7/8/21
 
 **JBMA**
