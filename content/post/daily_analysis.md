@@ -1,8 +1,8 @@
 ---
 title: "Technical Analysis forecasts"
 description: "My technical analysis forecasts"
-date: 2021-08-06T09:52:11+05:30
-lastmod: 2021-08-06T09:52:11+05:30
+date: 2021-09-08T12:40:08+05:30
+lastmod: 2021-09-08T12:40:08+05:30
 tags: ["stocks"]
 
 # Theme-Defined params
@@ -25,7 +25,7 @@ My daily technical analysis observations + my mistakes
 - Don't keep the buy trigger too close to the price
 
 
-**DATE: 8/8/21**
+## DATE: 8/8/21
 
 **jkpaper**
 - Buy entry at 252, with stop loss at 247
