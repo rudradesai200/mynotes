@@ -1,8 +1,8 @@
 ---
 title: "Technical Analysis forecasts"
 description: "My technical analysis forecasts"
-date: 2021-09-08T12:40:08+05:30
-lastmod: 2021-09-08T12:40:08+05:30
+date: 2021-09-14T12:40:08+05:30
+lastmod: 2021-09-14T12:40:08+05:30
 tags: ["stocks"]
 
 # Theme-Defined params
@@ -24,6 +24,66 @@ My daily technical analysis observations + my mistakes
 - dont put market buy order
 - Don't keep the buy trigger too close to the price
 
+**DATE 14/8/21**
+
+**HEMIPROP**
+- If closes above 140, then good buy signal
+
+**CHAMBALFERT**
+- If closses above 319.85, then definetely buy
+
+**JAYAGRO**
+- will bounce back. worth buying
+
+**IDEA**
+- Buy if opens tomorrow above 9.
+
+**IBULHSGFIN**
+- On its long term resistance of 236.50
+- Buy entry if opens above resistance tomorrow.
+
+**ASIANTILES**
+- If opens above 158.55 tomorrow, then a good buy entry
+- Target 170
+
+**BATAINDIA**
+- Wait for 2 days, if crosses 1787, then a good buy entry
+- Missed buy on 9th sep
+
+**fluorochem**
+- Sideways move, wait for clear trend
+
+**TITAN**
+- Wait for a day if opens with a green candle then a good buy signal
+
+**Happstminds**
+- Wait for a day, if opens with a green candle above 1502, good buy signal
+
+**SHREEPUSHK**
+- Down trend.
+
+**COALINDIA**
+- Wait for a day, if bounce back again, buy with a target 163.
+
+**JBMA**
+- Hit its lower trend channel support. Confirm bounce back.
+
+**DEEPAKNTR**
+- very near to the upper trend line, wait for some days
+
+**Bajaj-auto**
+- Wait for 1 day for confirmation, hit its lower trend channel support
+- Looks like a down trend channel break out.
+
+**ITC**
+- Looks like a converging trend channel breakout
+- Wait for one day for a positive candle and then buy
+
+**lauraslabs**
+- Sideways trend, no clear view
+
+**LXCHEM**
+- upper trend will continue, a buying position
 
 ## DATE: 8/9/21
 
