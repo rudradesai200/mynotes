@@ -24,7 +24,7 @@ My daily technical analysis observations + my mistakes
 - dont put market buy order
 - Don't keep the buy trigger too close to the price
 
-**DATE 14/8/21**
+## DATE 14/8/21
 
 **HEMIPROP**
 - If closes above 140, then good buy signal
