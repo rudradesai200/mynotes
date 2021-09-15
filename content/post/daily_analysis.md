@@ -1,8 +1,8 @@
 ---
 title: "Technical Analysis forecasts"
 description: "My technical analysis forecasts"
-date: 2021-09-14T12:40:08+05:30
-lastmod: 2021-09-14T12:40:08+05:30
+date: 2021-09-15T12:40:08+05:30
+lastmod: 2021-09-15T12:40:08+05:30
 tags: ["stocks"]
 
 # Theme-Defined params
@@ -14,7 +14,8 @@ mathjax: true # Enable/disable MathJax for specific page
 related: true # Enable/disable Related content for specific page
 ---
 
-My daily technical analysis observations + my mistakes
+My daily technical analysis observations + my mistakes.
+Note: Date on top represents the noting date and not the prediction date 
 <!--more-->
 
 ## Mistakes made
@@ -24,7 +25,73 @@ My daily technical analysis observations + my mistakes
 - dont put market buy order
 - Don't keep the buy trigger too close to the price
 
-## DATE 14/8/21
+## Date 15/9/21
+
+**LT**
+- Strong buy signal if opens positive
+- StochRSI crossover + thin neck + good rsi trend
+- (jefferies) target - 2105
+
+**IDEA**
+- Buy if opens tomorrow above 9.
+
+**ONGC**
+- Buy if opens positive, may go upto 150.
+- (ICICI) T1- 145, T2-212
+
+**BATAINDIA**
+- Good buy signal if opens positive.
+- Very near to its all time high of 1892
+
+**FINOLEX**
+- Good uptrend, if opens positive then can be bought intraday.
+- Overall, RSI in overbought region, may give a correction soon.
+
+**ASIANTILES**
+- Looks like one more day of descent left, may take a good uptrend after that
+- Keep on watchlist
+
+**JKPAPER**
+- Sideward movement from a long time.
+- Hold for a day or two, sell if falls below 248
+- If gives an uptrend, T1-268, T2-280
+
+**JBMA**
+- T1-507, T2-525, S1=473, S2=460
+- Thin BB neck + good rsi trend + positive stochRSI crossover
+
+**COALINDIA**
+- If crosses, 162.66, then can rally upto 177.52
+
+**TITAN**
+- Looks like a good uptrend, target - 2295 (long term - 1 month+)
+- (ShareKhan) Target - 2305
+
+**HEMIPROP**
+- Good buy entry, positive stochRSI crossover + down trend breakout + rsi uptrend
+- Target - 155
+
+**JAYAGROGN**
+- Hit its support of 260.5, T1=268, T2=278
+- Good buy entry
+
+**NIPPOBATRY**
+- If opens positive then definetely a good buy entry
+- T1-1075, T2-1117.91, S1-1028, S2-1006
+- Positve stochRSI crossover, positve rsi trend, above BB median
+
+**CHEMCON**
+- Wait till it crosses its 63 ema (468) levels for buying
+- Support level 457, possible stochRSI crossover tomorrow and thin BB neck => Mixed signals
+
+**SAKSOFT**
+- A minor correction is possible, wait for a confirmation.
+- May go back to 960-70 levels.
+
+**CHAMBALFERT**
+- Good uptrend, T1-329, T2-332, T3-348, S1-316.5, S2-308
+
+## DATE 14/9/21
 
 **HEMIPROP**
 - If closes above 140, then good buy signal
