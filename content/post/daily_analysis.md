@@ -18,12 +18,73 @@ My daily technical analysis observations + my mistakes.
 Note: Date on top represents the noting date and not the prediction date 
 <!--more-->
 
+
 ## Mistakes made
 - Wait for proper confirmation
 - Don't use your gut feeling
 - Wait till you see proper trend patterns
 - dont put market buy order
 - Don't keep the buy trigger too close to the price
+
+## Date 16/9/21
+
+**JKPAPER**
+- Sideward movement from a long time.
+- Hold for a day or two, sell if falls below 248
+- If gives an uptrend, T1-268, T2-280
+
+**HEMIPROP**
+- Looks like the initial contraction after hitting top. 
+- Sell if goes below 136.85 (i.e. market opens negative)
+
+**JAYAGROGN**
+- Broke its support of 260.5
+- If opens negative, then get out of the entry
+- If makes a positive candle, good buy entry, T1=268, T2=278
+
+**SAKSOFT**
+- May go down for a day more with good rsi support of 69
+- If opens positive, then makes a good buy entry
+
+**TITAN**
+- Looks like a good uptrend, target - 2295 (long term - 1 month+)
+- Stay positive, minor correction may happen
+- (ShareKhan) Target - 2305
+
+**IDEA**
+- May go up. Keep increasing stop loss
+
+**ONGC**
+- Looks like a uptrend with target 150.
+- Only concern is RSI near to its resistance.
+- (ICICI) T1- 145, T2-212
+
+**JBMA**
+- Wait for another day, may go more down.
+
+**FINOLEX**
+- Correction may continue for another day, after which a good buy entry.
+
+**LT**
+- Looks like taking resistance at 1720 levels.
+- Wait for it to cross with a positive candle.
+
+**ASIANTILES**
+- It may be coming out of its descent spree.
+- If opens positive then a good buy entry
+
+**BHEL**
+- Very slow moving.
+- If opens positive then can be bought at 58.5
+- Good rsi trend + stoch RSI crossover 
+
+**DCAL**
+- A buying position with some momentum left
+- Be cautious though, buy only if opens above today's closing price.
+
+**POWERGRID**
+- Buying position if opens positive, T1-184, T2-187
+- RSI uptrend + thin BB neck
 
 ## Date 15/9/21
 
