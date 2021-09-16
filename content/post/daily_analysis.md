@@ -1,8 +1,8 @@
 ---
 title: "Technical Analysis forecasts"
 description: "My technical analysis forecasts"
-date: 2021-09-15T12:40:08+05:30
-lastmod: 2021-09-15T12:40:08+05:30
+date: 2021-09-16T12:40:08+05:30
+lastmod: 2021-09-16T12:40:08+05:30
 tags: ["stocks"]
 
 # Theme-Defined params
