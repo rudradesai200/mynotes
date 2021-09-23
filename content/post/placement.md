@@ -18,6 +18,7 @@ Some resources for placement preparation.
 
 ### Some guides
 - A to Z guide to your campus placements - [Link](https://nitinkgp23.github.io/2020/09/23/A-to-Z-guide-to-your-campus-placements)
+- Good medium article with resources = [Link](https://medium.com/swlh/how-i-prepared-for-coding-interviews-in-3-months-8d54ba3bf50#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImMzMTA0YzY4OGMxNWU2YjhlNThlNjdhMzI4NzgwOTUyYjIxNzQwMTciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MzIzNTY0NzksImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNTgwNDM3MzU4NDQ2MDAyMDA4MCIsImVtYWlsIjoicnVkcmEuZGVzYWkyMDBAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJSdWRyYSBEZXNhaSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQVRYQUp4Y3pGcGl5bGNIczRDR3N6UG9RaGxNV0l0dGZqdWJacXZwQVJQMD1zOTYtYyIsImdpdmVuX25hbWUiOiJSdWRyYSIsImZhbWlseV9uYW1lIjoiRGVzYWkiLCJpYXQiOjE2MzIzNTY3NzksImV4cCI6MTYzMjM2MDM3OSwianRpIjoiYzljNGQyMjI1NWU4MDFhYTZmM2IyZGU5ZTY5NzZmMjA3ZGNjNTkzYyJ9.qLtCaK6q7ELHODz_xtrjrATqiD3sKjtO4c0di11qJHdEwpYYA9qQmV20lUo4fjRY6SXMwOQnx0_auOofYoI5nmYxTzlM9lnfzjuIKESXlKp0zHtG3ZBSZhxQ1HEn0_RhEWN9Ce2f83z2a2egumJvXd2ZI_QQGJCyjUt9kE1u9g9rHkVVChJj6OMzwIcK7ndL5PYfTCdctyt7wxwfeqTKbmwZXfcDhPaaBI5YNhmNsyxfM5D4m43Cx9v5MUsVDlkbMvu2LfmvqV69eHQmzgZG40zySmI5XOEDgnCGat5hpVDbPXjW4fENP5VxkbkllcClt2V-fY9j6Mkq65qhzu1bfQ)
 
 ### Leetcode Questions
 - 60 Leetcode questions google sheet - [Link](https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0)
@@ -36,9 +37,13 @@ Some resources for placement preparation.
 - Probab and Stats notes - [Link](https://drive.google.com/drive/folders/0Bx7x8HmM7p_zeDVydHkyOWVUYmM?usp=sharing)
 - the grey labryinith puzzles - [Link](http://www.greylabyrinth.com/)
 - CSE blog - [Link](http://www.cseblog.com/)
+- Youtube channel (Knowledge gate) for DBMS and OS - [Link](https://www.youtube.com/c/KNOWLEDGEGATE_kg)
+- Hackkerrank for SQL questions
+- Gate Smashers for Computer networks
 
 ### Books
 - Heard on the street
 - 50 challenging problems in probability
 - Notes and explanations - [Link](https://nitinkgp23.github.io/notes/2019/06/30/Interesting-notes-and-explanations/)
 - Some of the books link - [Link](https://drive.google.com/drive/folders/1nqA6ubzdOtY_zubz5lFDuw9Mw_8ERsSC)
+- Data Structures and Algorithms made Easy by Narsimha Karumanchi
