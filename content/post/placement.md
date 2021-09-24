@@ -30,6 +30,7 @@ Some resources for placement preparation.
 ## Some Good posts
 - https://www.geeksforgeeks.org/map-vs-unordered_map-c/
 - https://www.geeksforgeeks.org/set-vs-unordered_set-c-stl/
+- https://www.geeksforgeeks.org/quick-sort/
 
 ### Resources
 - Facebook group - [Link](https://www.facebook.com/groups/1540488506008368/)
