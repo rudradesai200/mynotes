@@ -18,6 +18,12 @@ My daily technical analysis observations + my mistakes.
 Note: Date on top represents the noting date and not the prediction date 
 <!--more-->
 
+## New Learnings
+- Heiken-Ashi candles
+- Understanding Put-Call Ratio
+- Fibonacci retracements
+- Cup and handle pattern
+- Learn about elliot wave
 
 ## Mistakes made
 - Wait for proper confirmation
