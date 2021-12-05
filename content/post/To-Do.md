@@ -31,5 +31,7 @@ List of my todos and some great project ideas to be done in future.
     - [ ] Add options to read an already completed project and fetch some values
 - [ ] Learn Java Fundamentals and Applications
     - [ ] Java Spring Boot Framework
+    - [ ] JPA
+    - [ ] Hibernate
 - [ ] Other CS Stuff
     - [ ] Learn MapReduce and Non-Relational DB
