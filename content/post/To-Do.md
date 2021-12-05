@@ -19,7 +19,7 @@ List of my todos and some great project ideas to be done in future.
 <!--more-->
 
 ### To-dos
-- [ ] Revamp [CFViewer](https://www.github.com/rudradesai200/cfviewer) to make it a standalone package
+- [x] Revamp [CFViewer](https://www.github.com/rudradesai200/cfviewer) to make it a standalone package
     - [ ] Add top-100 interview questions as a new page
     - [x] Package it as a docker container
     - [x] Add local Postgresql settings to it
@@ -29,4 +29,7 @@ List of my todos and some great project ideas to be done in future.
     - [ ] Add pre-defined tests module
     - [ ] Add logging module to be available directly as an option
     - [ ] Add options to read an already completed project and fetch some values
-- [ ] Learn dp bitmasking
+- [ ] Learn Java Fundamentals and Applications
+    - [ ] Java Spring Boot Framework
+- [ ] Other CS Stuff
+    - [ ] Learn MapReduce and Non-Relational DB
